@@ -1,0 +1,6 @@
+package command;
+
+class CommandAndTarget {
+    
+    
+}
